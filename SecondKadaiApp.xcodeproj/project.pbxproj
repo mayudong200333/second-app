@@ -14,6 +14,7 @@
 		39F8D1ED234F150E00A3D631 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39F8D1EB234F150E00A3D631 /* LaunchScreen.storyboard */; };
 		39F8D1F8234F150E00A3D631 /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F8D1F7234F150E00A3D631 /* SecondKadaiAppTests.swift */; };
 		39F8D203234F150E00A3D631 /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F8D202234F150E00A3D631 /* SecondKadaiAppUITests.swift */; };
+		39F8D211234F190900A3D631 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F8D210234F190900A3D631 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		39F8D1FE234F150E00A3D631 /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		39F8D202234F150E00A3D631 /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		39F8D204234F150E00A3D631 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39F8D210234F190900A3D631 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				39F8D1E9234F150E00A3D631 /* Assets.xcassets */,
 				39F8D1EB234F150E00A3D631 /* LaunchScreen.storyboard */,
 				39F8D1EE234F150E00A3D631 /* Info.plist */,
+				39F8D210234F190900A3D631 /* ResultViewController.swift */,
 			);
 			path = SecondKadaiApp;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				39F8D1E5234F150D00A3D631 /* ViewController.swift in Sources */,
 				39F8D1E3234F150D00A3D631 /* AppDelegate.swift in Sources */,
+				39F8D211234F190900A3D631 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
